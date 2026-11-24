@@ -1,25 +1,23 @@
 # Shinyoung Hong (홍신영)
 
 Undergraduate student in **Electrical and Information Engineering** (Minor: **Applied Artificial Intelligence**) at **Seoul National University of Science and Technology (SeoulTech)**.  
-Interested in bridging **control engineering, embedded hardware, and reinforcement learning** to build reliable real-world robotic systems.
+Interested in combining **control engineering, embedded hardware, and reinforcement learning** to build reliable robotic systems.
 
-## Research & Engineering Interests
-- **RL-based Robot Control:** Continuous control (PPO, SAC, TD3), Sim-to-Real transfer, delayed feedback handling
-- **Embedded & Hardware Systems:** MCU motor control, sensor debugging, FPGA digital logic design (Verilog)
-- **Applied AI Pipelines:** Multimodal voice/LLM integration and lightweight policy deployment
+## Interests
+- **RL-based Robot Control:** Reinforcement learning for continuous control and Sim-to-Real transfer
+- **Embedded & Hardware Systems:** MCU motor control, sensor debugging, FPGA digital logic (Verilog)
+- **Applied AI:** Integrating deep learning models into practical pipelines
 
 ## Technical Stack
 - **Languages:** C, C++, Python, Verilog
-- **AI / Control:** PyTorch (studying), Gymnasium, HuggingFace Transformers, Arduino
-- **Tools:** Git, Jupyter, Linux
+- **Frameworks & Tools:** Arduino, PyTorch *(studying)*, HuggingFace Transformers, Git, Jupyter
 
-## Selected Projects
+## Projects
 | Repository | Domain | Summary |
 | :--- | :--- | :--- |
-| [`arduino-line-tracer-control`](./arduino-line-tracer-control) | Embedded Control | Arduino-based line tracer with IR/ultrasonic sensors, asymmetric motor RPM tuning, and hardware debugging |
-| [`neuron-talk-talk-voice-ai`](./neuron-talk-talk-voice-ai) | Voice / LLM AI | End-to-end ASR–LLM–TTS voice care assistant (Winter AI Bootcamp Excellence Award) |
-| [`fpga-verilog-stopwatch`](./fpga-verilog-stopwatch) | Digital Hardware | Modular Verilog stopwatch with FSM, switch interface, and invalid-input error handling |
-| `rl-control-study` *(Upcoming)* | RL & Control | PyTorch, Gymnasium, and MuJoCo continuous control practice & Capstone preparation |
+| [`arduino-line-tracer-control`](https://github.com/Shin-YoungHong/arduino-line-tracer-control) | Embedded Control | Arduino line tracer with IR/ultrasonic sensors, motor RPM tuning, and hardware debugging |
+| [`neuron-talk-talk-voice-ai`](https://github.com/Shin-YoungHong/neuron-talk-talk-voice-ai) | Voice / LLM AI | ASR–LLM–TTS voice care assistant pipeline (Winter AI Bootcamp Excellence Award) |
+| [`fpga-verilog-stopwatch`](https://github.com/Shin-YoungHong/fpga-verilog-stopwatch) | Digital Hardware | Modular Verilog stopwatch with FSM, switch interface, and error handling |
 
 ## Contact
-- Email: `gido0821@gmail.com`
+- Email: `[본인 이메일 입력]`
