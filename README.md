@@ -20,4 +20,4 @@ Interested in combining **control engineering, embedded hardware, and reinforcem
 | [`fpga-verilog-stopwatch`](https://github.com/Shin-YoungHong/fpga-verilog-stopwatch) | Digital Hardware | Modular Verilog stopwatch with FSM, switch interface, and error handling |
 
 ## Contact
-- Email: `[본인 이메일 입력]`
+- Email: `gido0821@gmail.com`
