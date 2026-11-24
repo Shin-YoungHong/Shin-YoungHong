@@ -22,4 +22,4 @@ Interested in bridging **control engineering, embedded hardware, and reinforceme
 | `rl-control-study` *(Upcoming)* | RL & Control | PyTorch, Gymnasium, and MuJoCo continuous control practice & Capstone preparation |
 
 ## Contact
-- Email: `[본인 이메일 입력]`
+- Email: `gido0821@gmail.com`
